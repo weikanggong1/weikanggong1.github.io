@@ -60,7 +60,7 @@ Our group brings together students working at the intersection of **medical arti
   </div>
 
   <div class="student-card">
-    <div class="student-name">Menhan Qin</div>
+    <div class="student-name">Menghan Qin</div>
     <div class="student-year">PhD · 2023–Present</div>
     <div class="student-topic">
       <strong>Research:</strong> Whole-genome sequencing and brain imaging analysis.
