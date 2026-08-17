@@ -20,4 +20,4 @@ Weikang Gong, DPhil, Young Principal Investigator \
 School of Data Science \
 Fudan University, 220 Handan Road \
 Shanghai 200433, China \
-E-mail: weikanggong@fudan.edu.cn or weikang.gong@ndcn.ox.ac.uk
+E-mail: weikanggong@fudan.edu.cn
