@@ -53,35 +53,43 @@ Our group brings together students working at the intersection of **medical arti
 <div class="student-grid">
 
   <div class="student-card">
-    <div class="student-name">Student Name 1</div>
-    <div class="student-year">PhD Year 1</div>
+    <div class="student-name">Chang Yang</div>
+    <div class="student-year">PhD Year 2023 - Now</div>
     <div class="student-topic">
-      <strong>Research:</strong> Foundation models for multimodal biomedical data and disease prediction.
+      <strong>Research:</strong> Foundation models for brain imaging.
     </div>
   </div>
 
   <div class="student-card">
-    <div class="student-name">Student Name 2</div>
-    <div class="student-year">PhD Year 2</div>
+    <div class="student-name">Menhan Qin</div>
+    <div class="student-year">PhD Year 2023 - Now</div>
     <div class="student-topic">
-      <strong>Research:</strong> Neuroimaging genetics and large-scale brain–phenotype association studies.
+      <strong>Research:</strong> Whole-genome squencing and brain imaging analysis.
     </div>
   </div>
 
   <div class="student-card">
-    <div class="student-name">Student Name 3</div>
-    <div class="student-year">PhD Year 3</div>
+    <div class="student-name">Hanlin Jiang</div>
+    <div class="student-year">PhD Year 2025 - Now </div>
     <div class="student-topic">
-      <strong>Research:</strong> Multimodal representation learning for clinical neuroscience.
+      <strong>Research:</strong> Multiomics, fMRI.
     </div>
   </div>
 
   <div class="student-card">
-    <div class="student-name">Student Name 4</div>
-    <div class="student-year">PhD Year 4</div>
+    <div class="student-name">Mingchen Ma</div>
+    <div class="student-year">PhD Year 2025 - Now </div>
     <div class="student-topic">
-      <strong>Research:</strong> Machine learning for population health, omics, and precision medicine.
+      <strong>Research:</strong> Brain imaging, vision language model.
     </div>
   </div>
-
+  
+  <div class="student-card">
+    <div class="student-name">Jiali Wang</div>
+    <div class="student-year">PhD Year 2025 - Now </div>
+    <div class="student-topic">
+      <strong>Research:</strong> LLM and multiomics.
+    </div>
+  </div>
+  
 </div>
