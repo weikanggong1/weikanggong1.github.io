@@ -93,4 +93,13 @@ Our group brings together students working at the intersection of **medical arti
     </div>
   </div>
 
+  <div class="student-card">
+    <div class="student-name">Yan Fu</div>
+    <div class="student-year">PhD · 2025–Present</div>
+    <div class="student-topic">
+      <strong>Research:</strong> Imaging genetics.
+    </div>
+  </div>
+
+  
 </div>
