@@ -9,7 +9,7 @@ author_profile: true
 .student-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 18px;
+  gap: 28px;
   margin-top: 1.5rem;
 }
 
@@ -30,18 +30,18 @@ author_profile: true
 .student-name {
   font-size: 1.15rem;
   font-weight: 700;
-  margin-bottom: 6px;
+  margin-bottom: 12px;
 }
 
 .student-year {
   font-size: 0.95rem;
   color: #666666;
-  margin-bottom: 10px;
+  margin-bottom: 14px;
 }
 
 .student-topic {
   font-size: 0.98rem;
-  line-height: 1.55;
+  line-height: 1.7;
   color: #333333;
 }
 </style>
