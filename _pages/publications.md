@@ -33,7 +33,7 @@ Menghan Qin, Bangsheng Wu, Liu Yang, Wei Cheng, Jianfeng Feng, Jintai Yu, Tian G
 [Preprint](https://doi.org/10.64898/2026.06.21.26356150)
 
 **A foundation model for efficient and assumption-free characterization of brain microstructure from diffusion MRI**  
-**Weikang Gong**, Ziyu Li, Yan Fu, Michiel Cottaar, Wenchuan Wu, Jianfeng Feng, Saad Jbabdi, Christian F. Beckmann, Stephen M. Smith  
+**Weikang Gong†**, Ziyu Li, Yan Fu, Michiel Cottaar, Wenchuan Wu, Jianfeng Feng, Saad Jbabdi, Christian F. Beckmann, Stephen M. Smith  
 *Under review*, 2026  
 [Preprint](https://doi.org/10.21203/rs.3.rs-8877816/v1)
 
@@ -61,7 +61,7 @@ Chang Yang, Jianfeng Feng, Christian F. Beckmann, Stephen M. Smith, **Weikang Go
 [Paper](https://doi.org/10.1162/imag_a_00215)
 
 **Whole-exome sequencing identifies protein-coding variants associated with brain iron in 29,828 individuals**  
-**Weikang Gong\***, Yan Fu\*, Bang-Sheng Wu, Jingnan Du, Liu Yang, Ya-Ru Zhang, Shi-Dong Chen, et al.  
+**Weikang Gong\*†**, Yan Fu\*, Bang-Sheng Wu, Jingnan Du, Liu Yang, Ya-Ru Zhang, Shi-Dong Chen, et al.  
 *Nature Communications*, 2024, **15**, 5540  
 [Paper](https://doi.org/10.1038/s41467-024-49702-2)
 
@@ -81,7 +81,7 @@ Jingnan Du\*, Edmund T. Rolls\*, **Weikang Gong\***, et al.
 ### 2021
 
 **Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study**  
-**Weikang Gong**, Edmund T. Rolls, Jingnan Du, et al.  
+**Weikang Gong\***, Edmund T. Rolls\*, Jingnan Du\*, et al.  
 *Nature Communications*, 2021, **12**, 3769  
 [Paper](https://doi.org/10.1038/s41467-021-21993-9)
 
