@@ -18,6 +18,10 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 
 ### 2026
 
+**Deciphering the genetic architecture and regulatory programs of human brain structure and function**  
+Liu Yang, Yijing Ge, et al.... Wei Cheng†, Fan Mei†, **Weikang Gong†**, Jintai Yu†
+*Under review*, 2026  
+
 **OmicFormer: a statistical priors-informed transformer for accurate and generalizable omics prediction of diseases and complex traits**  
 Hanlin Jiang, Chang Yang, Menghan Qin, Jia You, Jianfeng Feng, Jin-Tai Yu, Wei Cheng, **Weikang Gong†**  
 *medRxiv*, 2026  
