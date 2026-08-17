@@ -47,8 +47,6 @@ author_profile: true
 }
 </style>
 
-# Students
-
 Our group brings together students working at the intersection of **medical artificial intelligence, neuroimaging, genetics, and multimodal biomedical data science**.
 
 <div class="student-grid">
