@@ -7,7 +7,7 @@ author_profile: true
 
 # Publications
 
-Selected publications in which **Weikang Gong** is a first/co-first author or corresponding author.  
+Selected first- or corresponding-author publications.  
 **\*** Co-first author · **†** Corresponding author
 
 For a complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=TDo57rsAAAAJ&hl=en).
