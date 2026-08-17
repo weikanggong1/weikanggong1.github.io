@@ -9,14 +9,15 @@ author_profile: true
 .student-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 28px;
+  column-gap: 32px;
+  row-gap: 42px;
   margin-top: 1.5rem;
 }
 
 .student-card {
   border: 1px solid #e5e7eb;
   border-radius: 12px;
-  padding: 20px 22px;
+  padding: 16px 18px;
   background: #ffffff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -30,18 +31,18 @@ author_profile: true
 .student-name {
   font-size: 1.15rem;
   font-weight: 700;
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 
 .student-year {
   font-size: 0.95rem;
   color: #666666;
-  margin-bottom: 14px;
+  margin-bottom: 7px;
 }
 
 .student-topic {
   font-size: 0.98rem;
-  line-height: 1.7;
+  line-height: 1.5;
   color: #333333;
 }
 </style>
@@ -54,7 +55,7 @@ Our group brings together students working at the intersection of **medical arti
 
   <div class="student-card">
     <div class="student-name">Chang Yang</div>
-    <div class="student-year">PhD Year 2023 - Now</div>
+    <div class="student-year">PhD · 2023–Present</div>
     <div class="student-topic">
       <strong>Research:</strong> Foundation models for brain imaging.
     </div>
@@ -62,34 +63,34 @@ Our group brings together students working at the intersection of **medical arti
 
   <div class="student-card">
     <div class="student-name">Menhan Qin</div>
-    <div class="student-year">PhD Year 2023 - Now</div>
+    <div class="student-year">PhD · 2023–Present</div>
     <div class="student-topic">
-      <strong>Research:</strong> Whole-genome squencing and brain imaging analysis.
+      <strong>Research:</strong> Whole-genome sequencing and brain imaging analysis.
     </div>
   </div>
 
   <div class="student-card">
     <div class="student-name">Hanlin Jiang</div>
-    <div class="student-year">PhD Year 2025 - Now </div>
+    <div class="student-year">PhD · 2025–Present</div>
     <div class="student-topic">
-      <strong>Research:</strong> Multiomics, fMRI.
+      <strong>Research:</strong> Multi-omics and fMRI.
     </div>
   </div>
 
   <div class="student-card">
     <div class="student-name">Mingchen Ma</div>
-    <div class="student-year">PhD Year 2025 - Now </div>
+    <div class="student-year">PhD · 2025–Present</div>
     <div class="student-topic">
-      <strong>Research:</strong> Brain imaging, vision language model.
+      <strong>Research:</strong> Brain imaging and vision-language models.
     </div>
   </div>
-  
+
   <div class="student-card">
     <div class="student-name">Jiali Wang</div>
-    <div class="student-year">PhD Year 2025 - Now </div>
+    <div class="student-year">PhD · 2025–Present</div>
     <div class="student-topic">
-      <strong>Research:</strong> LLM and multiomics.
+      <strong>Research:</strong> Large language models and multi-omics.
     </div>
   </div>
-  
+
 </div>
