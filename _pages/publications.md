@@ -29,7 +29,7 @@ Yan Fu, Shitong Xiang, Liu Yang, Bang-Sheng Wu, et. al, Wei Cheng†, **Weikang 
 *Under review*, 2026  
 
 **OmicFormer: a statistical priors-informed transformer for accurate and generalizable omics prediction of diseases and complex traits**  
-Hanlin Jiang, Chang Yang, Menghan Qin, Jia You, Jianfeng Feng, Jin-Tai Yu, Wei Cheng, **Weikang Gong†**  
+Hanlin Jiang, Chang Yang, Menghan Qin, Jia You, Jianfeng Feng, Jin-Tai Yu, Wei Cheng†, **Weikang Gong†**  
 *medRxiv*, 2026  
 [Preprint](https://doi.org/10.64898/2026.07.06.26357359)
 
