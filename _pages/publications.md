@@ -17,7 +17,7 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 ### 2026
 
 **HealthFound: quantitative reasoning over longitudinal health profiles with a large language model**  
-Hongcheng Guo, et. al..., **Weikang Gong†**, Wei Cheng†, Jianfeng Feng†
+Hongcheng Guo, et. al..., **Weikang Gong†**, Wei Cheng†, Jianfeng Feng†  
 *medRxiv*, 2026  
 
 **Deciphering the genetic architecture and regulatory programs of human brain structure and function**  
