@@ -14,8 +14,6 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 
 ---
 
-## Preprints
-
 ### 2026
 
 **Deciphering the genetic architecture and regulatory programs of human brain structure and function**  
@@ -50,8 +48,6 @@ Chang Yang, Jianfeng Feng, Christian F. Beckmann, Stephen M. Smith, **Weikang Go
 [Preprint](https://doi.org/10.64898/2025.12.19.25342614)
 
 ---
-
-## Peer-reviewed Publications
 
 ### 2024
 
