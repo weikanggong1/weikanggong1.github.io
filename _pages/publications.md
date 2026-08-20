@@ -25,7 +25,7 @@ Liu Yang, Yijun Ge, Yueting Deng, Yan Fu, et. al...., Ying Mao†, Wei Cheng†,
 *Under review*, 2026  
 
 **Whole-genome sequencing reveals the genetic architecture of the human brain structural connectome**  
-Yan Fu, Shitong Xiang, Liu Yang, Bang-Sheng Wu, et. al, Wei Cheng†, **Weikang Gong†**, Jintai Yu†  
+Yan Fu, Shitong Xiang, Liu Yang, Bangsheng Wu, et. al, Wei Cheng†, **Weikang Gong†**, Jintai Yu†  
 *Under review*, 2026  
 
 **OmicFormer: a statistical priors-informed transformer for accurate and generalizable omics prediction of diseases and complex traits**  
