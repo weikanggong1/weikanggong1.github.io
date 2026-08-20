@@ -35,6 +35,8 @@ Menghan Qin, Bangsheng Wu, Liu Yang, Wei Cheng, Jianfeng Feng, Jintai Yu, Tian G
 *Under review*, 2026  
 [Preprint](https://doi.org/10.21203/rs.3.rs-8877816/v1)
 
+---
+
 ### 2025
 
 **A foundation model for mapping the phenomic and genetic landscape of cerebral small vessel disease biomarkers**  
