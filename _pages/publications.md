@@ -34,7 +34,7 @@ Hanlin Jiang, Chang Yang, Menghan Qin, Jia You, Jianfeng Feng, Jin-Tai Yu, Wei C
 [Preprint](https://doi.org/10.64898/2026.07.06.26357359)
 
 **Rare-variant risk scores complement common-variant polygenic scores for disease risk prediction and stratification**  
-Menghan Qin, Bangsheng Wu, Liu Yang, Wei Cheng, Jianfeng Feng, Jintai Yu, Tian Ge, **Weikang Gong†**  
+Menghan Qin, Bangsheng Wu, Liu Yang, Wei Cheng, Jianfeng Feng, Jintai Yu, Tian Ge†, **Weikang Gong†**  
 *medRxiv*, 2026  
 [Preprint](https://doi.org/10.64898/2026.06.21.26356150)
 
